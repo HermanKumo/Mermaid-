@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_EFCOfpOnK8iyfKWGk8m">
+    <mxGraphModel dx="1366" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q303E06USkkpEfEVUsxe-3" edge="1" parent="1" source="Q303E06USkkpEfEVUsxe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q303E06USkkpEfEVUsxe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Start" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-6" edge="1" parent="1" source="Q303E06USkkpEfEVUsxe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q303E06USkkpEfEVUsxe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Input marks for subject 1&lt;div&gt;Input marks for subject 2&lt;/div&gt;&lt;div&gt;Input marks for subject 3&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="140" x="330" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-8" edge="1" parent="1" source="Q303E06USkkpEfEVUsxe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q303E06USkkpEfEVUsxe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="total = subject 1 + subject 2 + subject +3" vertex="1">
+          <mxGeometry height="80" width="150" x="325" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-10" edge="1" parent="1" source="Q303E06USkkpEfEVUsxe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Q303E06USkkpEfEVUsxe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="average = total/3" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-12" edge="1" parent="1" source="Q303E06USkkpEfEVUsxe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Q303E06USkkpEfEVUsxe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Display total&amp;nbsp;&lt;div&gt;Display average&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="Q303E06USkkpEfEVUsxe-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="End" vertex="1">
+          <mxGeometry height="50" width="60" x="370" y="790" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

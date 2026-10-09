@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XZhZUz3aya0wzDh79Uos">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2er5rc5dTz83HxQduGnq-9" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="Start" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-10" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="input salary, years" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-11" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-20" connectable="0" parent="2er5rc5dTz83HxQduGnq-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="no" vertex="1">
+          <mxGeometry relative="1" x="0.1139" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-12" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-21" connectable="0" parent="2er5rc5dTz83HxQduGnq-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.1412" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="5 years?" vertex="1">
+          <mxGeometry height="110" width="140" x="330" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-15" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bouns = salary&amp;nbsp; * 0.10" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-16" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="bouns = salarry * 0.05" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-17" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2er5rc5dTz83HxQduGnq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="totalSalray = salary" vertex="1">
+          <mxGeometry height="80" width="250" x="275" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-18" edge="1" parent="1" source="2er5rc5dTz83HxQduGnq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="2er5rc5dTz83HxQduGnq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Display&amp;nbsp; Bouns, totalSalary" vertex="1">
+          <mxGeometry height="60" width="200" x="300" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="2er5rc5dTz83HxQduGnq-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="End" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="960" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
