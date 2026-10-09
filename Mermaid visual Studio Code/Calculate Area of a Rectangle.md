@@ -1,7 +1,7 @@
 ```mermaid
 flowchart TB
   
-   
+
    Start([Start])
     Input[/Input Length, Width/]
     Calc[Area = Length × Width]

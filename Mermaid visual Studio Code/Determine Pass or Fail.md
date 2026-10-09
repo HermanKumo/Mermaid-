@@ -2,8 +2,10 @@
 ```mermaid
 flowchart TB
 
-    Start((start))-->Input[/Input P, R, T/]
-    Input-->calc["Sl = (P x R x T / 100)"]
-    calc-->Display[/Display Sl/]
-    Display-->stop((Stop))
+    Start((start))-->Input[/Read average marks/]
+    Input-->check{is average >=50?}
+    check--yes-->pass[/Display "pass"/]
+    check--no -->fail[/Display "fail"/]
+    pass-->stop((stop))
+    fail-->stop
 ```    
